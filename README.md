@@ -13,6 +13,9 @@ Currently, two official plugins are available:
 
 Developed a conversational AI web application using React and the Gemini API. The application allows users to interact with an AI to generate human-like text responses based on user inputs.
 
+# Deployed Project link: 
+https://manasi0401.github.io/AskMyAI/
+
 
 # Technologies Used:
 
